@@ -11,7 +11,34 @@
   </url>
   
   <url>
+    <loc>https://hl1967.github.io/link/index.html</loc>
+    
+    <lastmod>2022-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hl1967.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hl1967.github.io/posts/cc24/</loc>
+    
+    <lastmod>2022-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hl1967.github.io/posts/47753/</loc>
     
     <lastmod>2022-10-16</lastmod>
     
@@ -38,36 +65,9 @@
   </url>
   
   <url>
-    <loc>https://hl1967.github.io/link/index.html</loc>
-    
-    <lastmod>2022-10-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hl1967.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-10-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hl1967.github.io/categories/index.html</loc>
     
-    <lastmod>2022-10-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hl1967.github.io/posts/47753/</loc>
-    
-    <lastmod>2022-10-15</lastmod>
+    <lastmod>2022-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
