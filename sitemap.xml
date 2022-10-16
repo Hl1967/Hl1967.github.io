@@ -38,16 +38,7 @@
   </url>
   
   <url>
-    <loc>https://hl1967.github.io/posts/47753/</loc>
-    
-    <lastmod>2022-10-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hl1967.github.io/about/index.html</loc>
+    <loc>https://hl1967.github.io/posts/0/</loc>
     
     <lastmod>2022-10-16</lastmod>
     
@@ -57,6 +48,15 @@
   
   <url>
     <loc>https://hl1967.github.io/bangumi/index.html</loc>
+    
+    <lastmod>2022-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hl1967.github.io/about/index.html</loc>
     
     <lastmod>2022-10-16</lastmod>
     

@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title>这是一篇测试文档1</title>
-      <link href="/posts/47753/"/>
-      <url>/posts/47753/</url>
+      <title></title>
+      <link href="/posts/0/"/>
+      <url>/posts/0/</url>
       
-        <content type="html"><![CDATA[<p>Blog基本配置完成啦！！！</p>]]></content>
+        <content type="html"><![CDATA[<hr><p>title: 这是一篇测试文档1<br>abbrlink: 47753<br>cover: <a href="https://cdn.staticaly.com/gh/Hl1967/Picgo@main/img/1.badl1lb0i7c.webp">https://cdn.staticaly.com/gh/Hl1967/Picgo@main/img/1.badl1lb0i7c.webp</a></p><p>Blog基本配置完成啦！！！</p>]]></content>
       
       
       
@@ -44,9 +44,9 @@
     
     
     <entry>
-      <title>关于我</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>bangumi</title>
+      <link href="/bangumi/index.html"/>
+      <url>/bangumi/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -55,9 +55,9 @@
     
     
     <entry>
-      <title>bangumi</title>
-      <link href="/bangumi/index.html"/>
-      <url>/bangumi/index.html</url>
+      <title>关于我</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
