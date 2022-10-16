@@ -17,7 +17,7 @@
     
     
     <entry>
-      <title>哈哈哈哈</title>
+      <title>test1</title>
       <link href="/posts/47753/"/>
       <url>/posts/47753/</url>
       
@@ -77,9 +77,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>美好的世界</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -88,9 +88,9 @@
     
     
     <entry>
-      <title>美好的世界</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
