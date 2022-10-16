@@ -6,7 +6,7 @@
   <link href="https://hl1967.github.io/atom.xml" rel="self"/>
   
   <link href="https://hl1967.github.io/"/>
-  <updated>2022-10-16T19:39:33.162Z</updated>
+  <updated>2022-10-16T19:41:21.457Z</updated>
   <id>https://hl1967.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://hl1967.github.io/posts/cc24/"/>
     <id>https://hl1967.github.io/posts/cc24/</id>
     <published>2022-10-17T01:18:48.000Z</published>
-    <updated>2022-10-16T19:39:33.162Z</updated>
+    <updated>2022-10-16T19:41:21.457Z</updated>
     
     
     
@@ -30,19 +30,19 @@
   </entry>
   
   <entry>
-    <title></title>
-    <link href="https://hl1967.github.io/posts/0/"/>
-    <id>https://hl1967.github.io/posts/0/</id>
-    <published>2022-10-16T19:39:33.162Z</published>
-    <updated>2022-10-16T19:39:33.162Z</updated>
+    <title>这是一篇测试文档1</title>
+    <link href="https://hl1967.github.io/posts/47753/"/>
+    <id>https://hl1967.github.io/posts/47753/</id>
+    <published>2022-10-16T19:41:21.457Z</published>
+    <updated>2022-10-16T19:41:21.457Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>title: 这是一篇测试文档1<br>abbrlink: 47753<br>cover: <a href="https://cdn.staticaly.com/gh/Hl1967/Picgo@main/img/1.badl1lb0i7c.webp">https://cdn.staticaly.com/gh/Hl1967/Picgo@main/img/1.badl1lb0i7c.webp</a></p><p>Blog基本配置完成啦！！！</p>]]></content>
+    <content type="html"><![CDATA[<p>Blog基本配置完成啦！！！</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;hr&gt;
-&lt;p&gt;title: 这是一篇测试文档1&lt;br&gt;abbrlink: 47753&lt;br&gt;cover: &lt;a href=&quot;https://cdn.staticaly.com/gh/Hl1967/Picgo@main/img/1.badl1lb0i7c.webp&quot;&gt;https:</summary>
+    <summary type="html">&lt;p&gt;Blog基本配置完成啦！！！&lt;/p&gt;
+</summary>
       
     
     
