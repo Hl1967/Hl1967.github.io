@@ -31,20 +31,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>bangumi</title>
-      <link href="/bangumi/index.html"/>
-      <url>/bangumi/index.html</url>
+      <title>美好的世界</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -64,9 +53,20 @@
     
     
     <entry>
-      <title>美好的世界</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>bangumi</title>
+      <link href="/bangumi/index.html"/>
+      <url>/bangumi/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
