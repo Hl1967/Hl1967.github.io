@@ -6,7 +6,7 @@
   <link href="https://hl1967.github.io/atom.xml" rel="self"/>
   
   <link href="https://hl1967.github.io/"/>
-  <updated>2022-10-18T01:31:24.219Z</updated>
+  <updated>2022-10-18T01:49:33.268Z</updated>
   <id>https://hl1967.github.io/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>考研数学</title>
     <link href="https://hl1967.github.io/posts/47753/"/>
     <id>https://hl1967.github.io/posts/47753/</id>
-    <published>2022-10-18T01:31:24.219Z</published>
-    <updated>2022-10-18T01:31:24.219Z</updated>
+    <published>2022-10-18T01:49:33.268Z</published>
+    <updated>2022-10-18T01:49:33.268Z</updated>
     
     <content type="html"><![CDATA[<p>Blog基本配置完成啦！！！</p>]]></content>
     
@@ -38,11 +38,13 @@
     <link href="https://hl1967.github.io/posts/cc24/"/>
     <id>https://hl1967.github.io/posts/cc24/</id>
     <published>2022-10-17T01:18:48.000Z</published>
-    <updated>2022-10-18T01:31:24.219Z</updated>
+    <updated>2022-10-18T01:49:33.268Z</updated>
     
     
     
     
+    
+    <category term="编程" scheme="https://hl1967.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
