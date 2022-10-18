@@ -6,7 +6,7 @@
   <link href="https://hl1967.github.io/atom.xml" rel="self"/>
   
   <link href="https://hl1967.github.io/"/>
-  <updated>2022-10-16T19:41:21.457Z</updated>
+  <updated>2022-10-18T01:31:24.219Z</updated>
   <id>https://hl1967.github.io/</id>
   
   <author>
@@ -17,12 +17,16 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Python易错记录</title>
-    <link href="https://hl1967.github.io/posts/cc24/"/>
-    <id>https://hl1967.github.io/posts/cc24/</id>
-    <published>2022-10-17T01:18:48.000Z</published>
-    <updated>2022-10-16T19:41:21.457Z</updated>
+    <title>考研数学</title>
+    <link href="https://hl1967.github.io/posts/47753/"/>
+    <id>https://hl1967.github.io/posts/47753/</id>
+    <published>2022-10-18T01:31:24.219Z</published>
+    <updated>2022-10-18T01:31:24.219Z</updated>
     
+    <content type="html"><![CDATA[<p>Blog基本配置完成啦！！！</p>]]></content>
+    
+    
+    <summary type="html">考研数学题</summary>
     
     
     
@@ -30,20 +34,12 @@
   </entry>
   
   <entry>
-    <title>这是一篇测试文档1</title>
-    <link href="https://hl1967.github.io/posts/47753/"/>
-    <id>https://hl1967.github.io/posts/47753/</id>
-    <published>2022-10-16T19:41:21.457Z</published>
-    <updated>2022-10-16T19:41:21.457Z</updated>
+    <title>Python易错记录</title>
+    <link href="https://hl1967.github.io/posts/cc24/"/>
+    <id>https://hl1967.github.io/posts/cc24/</id>
+    <published>2022-10-17T01:18:48.000Z</published>
+    <updated>2022-10-18T01:31:24.219Z</updated>
     
-    <content type="html"><![CDATA[<p>Blog基本配置完成啦！！！</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Blog基本配置完成啦！！！&lt;/p&gt;
-</summary>
-      
     
     
     
