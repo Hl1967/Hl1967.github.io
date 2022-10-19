@@ -4,19 +4,13 @@
   
     
     <entry>
-      <title>摘录</title>
-      <link href="/posts/7364/"/>
-      <url>/posts/7364/</url>
+      <title>Markdown语法</title>
+      <link href="/posts/5878/"/>
+      <url>/posts/5878/</url>
       
-        <content type="html"><![CDATA[<p>我认为一个人总在死亡。每一次我们不能有所感受，不能有所发现，而只能机械地重复什么的时刻，就是死亡的时刻。<br>                                                        ——博尔赫斯 ​​​</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Markdown快速入门"><a href="#Markdown快速入门" class="headerlink" title="Markdown快速入门"></a>Markdown快速入门</h1><h2 id="1-代码块："><a href="#1-代码块：" class="headerlink" title="1.代码块："></a>1.代码块：</h2><p><strong>1.java  代码</strong></p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//代码块语法</span></span><br><span class="line">```jave</span><br></pre></td></tr></table></figure><p><strong>2.shell代码</strong></p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">//linux下spring项目的启动命令</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">jabe -jar blog start</span></span><br></pre></td></tr></table></figure><h2 id="2-标题"><a href="#2-标题" class="headerlink" title="2.标题"></a>2.标题</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//标题语法</span></span><br><span class="line"># + 空格 + 一级标题</span><br><span class="line">##</span><br><span class="line">###</span><br><span class="line">####</span><br></pre></td></tr></table></figure><h2 id="3-字体"><a href="#3-字体" class="headerlink" title="3.字体"></a>3.字体</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//加粗</span></span><br><span class="line">**加粗**</span><br><span class="line"><span class="comment">//代码高亮</span></span><br><span class="line">==高亮==</span><br><span class="line"><span class="comment">//删除线</span></span><br><span class="line">~被删除的文字~</span><br><span class="line"><span class="comment">//斜体</span></span><br><span class="line">*斜体*</span><br></pre></td></tr></table></figure><h3 id="具体效果"><a href="#具体效果" class="headerlink" title="具体效果"></a>具体效果</h3><p>//加粗<br><strong>加粗</strong><br>//代码高亮<br>==高亮==<br>//删除线<br><del>被删除的文字</del><br>//斜体<br><em>斜体</em></p><h2 id="4-引用"><a href="#4-引用" class="headerlink" title="4.引用"></a>4.引用</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//引用语法</span></span><br><span class="line">&gt;作者：潘少华</span><br><span class="line">&gt;&gt;作者：潘少华</span><br><span class="line">&gt;&gt;&gt;作者：潘少华</span><br></pre></td></tr></table></figure><h3 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h3><p>//引用语法</p><blockquote><p>作者：潘少华</p><blockquote><p>作者：潘少华</p><blockquote><p>作者：潘少华</p></blockquote></blockquote></blockquote><h2 id="5-分割线"><a href="#5-分割线" class="headerlink" title="5.分割线"></a>5.分割线</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//分割线</span></span><br><span class="line">---</span><br><span class="line"><span class="comment">//分割线全屏</span></span><br><span class="line">***</span><br></pre></td></tr></table></figure><h3 id="效果展示-1"><a href="#效果展示-1" class="headerlink" title="效果展示"></a>效果展示</h3><hr><hr><h2 id="6-图片插入"><a href="#6-图片插入" class="headerlink" title="6.图片插入"></a>6.图片插入</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//图片插入/本地图片</span></span><br><span class="line">![名字](地址：/img/bg.jpg)</span><br></pre></td></tr></table></figure><h3 id="效果展示-2"><a href="#效果展示-2" class="headerlink" title="效果展示"></a>效果展示</h3><h4 id="1-网上链接"><a href="#1-网上链接" class="headerlink" title="1.网上链接"></a>1.网上链接</h4><p><img src="https://cdn.staticaly.com/gh/Hl1967/Picgo@main/img/wallhaven-y8622k.4ue6gzo4q2e0.webp" alt="背景展示"></p><h4 id="2-本地链接"><a href="#2-本地链接" class="headerlink" title="2.本地链接"></a>2.本地链接</h4><p><img src="E:\Blog\source\img\comment_bg.png" alt="背景展示"></p><h2 id="7-超链接"><a href="#7-超链接" class="headerlink" title="7.超链接"></a>7.超链接</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//超链接语法</span></span><br><span class="line">[链接名称：如我的github](https:<span class="comment">//github.com/Hl1967)</span></span><br></pre></td></tr></table></figure><h3 id="效果展示-3"><a href="#效果展示-3" class="headerlink" title="效果展示"></a>效果展示</h3><p>//超链接语法<br><a href="https://github.com/Hl1967">链接名称：如我的github</a></p><h2 id="8-列表"><a href="#8-列表" class="headerlink" title="8.列表"></a>8.列表</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//无序列表</span></span><br><span class="line">-目录<span class="number">1</span></span><br><span class="line">-目录<span class="number">2</span></span><br><span class="line">-目录<span class="number">3</span></span><br><span class="line"><span class="comment">//有序列表</span></span><br><span class="line"><span class="number">1</span>+.+名称</span><br></pre></td></tr></table></figure><h3 id="效果展示-4"><a href="#效果展示-4" class="headerlink" title="效果展示"></a>效果展示</h3><ul><li>目录1<ul><li>目录2<ul><li>目录3</li></ul></li></ul></li></ul><ol><li>首页</li><li></li><li></li></ol><h2 id="9-表格"><a href="#9-表格" class="headerlink" title="9.表格"></a>9.表格</h2><div class="table-container"><table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table></div>]]></content>
       
       
-      
-        <tags>
-            
-            <tag> 日常 </tag>
-            
-        </tags>
       
     </entry>
     
@@ -30,6 +24,25 @@
         <content type="html"><![CDATA[]]></content>
       
       
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>摘录</title>
+      <link href="/posts/7364/"/>
+      <url>/posts/7364/</url>
+      
+        <content type="html"><![CDATA[<p>我认为一个人总在死亡。每一次我们不能有所感受，不能有所发现，而只能机械地重复什么的时刻，就是死亡的时刻。<br>                                                        ——博尔赫斯 ​​​</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日常 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -105,6 +118,17 @@
       <title>友链</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>navigate</title>
+      <link href="/navigate/index.html"/>
+      <url>/navigate/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
