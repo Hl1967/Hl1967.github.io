@@ -4,7 +4,7 @@
   <url>
     <loc>https://www.huadang.top/manifest.json</loc>
     
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://www.huadang.top/link/index.html</loc>
     
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://www.huadang.top/navigate/index.html</loc>
     
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>https://www.huadang.top/tags/index.html</loc>
     
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
   <url>
     <loc>https://www.huadang.top/posts/f3ad/</loc>
     
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,7 @@
   <url>
     <loc>https://www.huadang.top/posts/30d1/</loc>
     
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
   <url>
     <loc>https://www.huadang.top/posts/c731/</loc>
     
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,16 +67,7 @@
   <url>
     <loc>https://www.huadang.top/posts/c737/</loc>
     
-    <lastmod>2023-08-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huadang.top/posts/5878/</loc>
-    
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,16 +76,7 @@
   <url>
     <loc>https://www.huadang.top/posts/7364/</loc>
     
-    <lastmod>2023-08-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huadang.top/posts/cc24/</loc>
-    
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +85,7 @@
   <url>
     <loc>https://www.huadang.top/about/index.html</loc>
     
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -112,7 +94,7 @@
   <url>
     <loc>https://www.huadang.top/bangumi/index.html</loc>
     
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +103,25 @@
   <url>
     <loc>https://www.huadang.top/categories/index.html</loc>
     
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huadang.top/posts/5878/</loc>
+    
+    <lastmod>2023-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huadang.top/posts/cc24/</loc>
+    
+    <lastmod>2023-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -130,7 +130,7 @@
 
   <url>
     <loc>https://www.huadang.top/</loc>
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,21 +138,21 @@
   
   <url>
     <loc>https://www.huadang.top/tags/%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.huadang.top/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.huadang.top/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
