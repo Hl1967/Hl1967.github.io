@@ -38,33 +38,6 @@
   </url>
   
   <url>
-    <loc>https://www.huadang.top/about/index.html</loc>
-    
-    <lastmod>2023-12-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huadang.top/bangumi/index.html</loc>
-    
-    <lastmod>2023-12-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huadang.top/categories/index.html</loc>
-    
-    <lastmod>2023-12-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huadang.top/posts/f3ad/</loc>
     
     <lastmod>2023-12-29</lastmod>
@@ -101,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.huadang.top/posts/5878/</loc>
+    <loc>https://www.huadang.top/posts/7364/</loc>
     
     <lastmod>2023-12-29</lastmod>
     
@@ -110,7 +83,34 @@
   </url>
   
   <url>
-    <loc>https://www.huadang.top/posts/7364/</loc>
+    <loc>https://www.huadang.top/about/index.html</loc>
+    
+    <lastmod>2023-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huadang.top/bangumi/index.html</loc>
+    
+    <lastmod>2023-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huadang.top/categories/index.html</loc>
+    
+    <lastmod>2023-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huadang.top/posts/5878/</loc>
     
     <lastmod>2023-12-29</lastmod>
     
